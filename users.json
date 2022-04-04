@@ -1,0 +1,26 @@
+[
+  {
+    "password": "q",
+    "balance": 50,
+    "tcKimlikNo": "321",
+    "creditDebt": 0,
+    "dateOfBirth": "e",
+    "creditCardDebt": 0
+  },
+  {
+    "password": "q",
+    "balance": 120,
+    "tcKimlikNo": "456",
+    "creditDebt": 0,
+    "dateOfBirth": "78",
+    "creditCardDebt": 0
+  },
+  {
+    "password": "fdsafds",
+    "balance": 1.2,
+    "tcKimlikNo": "fdsafds",
+    "creditDebt": 1.2,
+    "dateOfBirth": "fdsafds",
+    "creditCardDebt": 1.2
+  }
+]
